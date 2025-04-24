@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salma752540
+- 👋 Hi, I’m @souissi-salma
 - 👀 I’m interested in data science, machine learning, and artificial intelligence.
 - 🌱 I’m currently learning advanced techniques in data analysis and machine learning algorithms.
 - 💞️ I’m looking to collaborate on innovative data science projects and research.
