@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science, machine learning, and artificial intelligence.
 - 🌱 I’m currently learning advanced techniques in data analysis and machine learning algorithms.
 - 💞️ I’m looking to collaborate on innovative data science projects and research.
-- 📫 How to reach me: You can contact me through [LinkedIn](https://www.linkedin.com/in/souissi-salma-852a07326/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy solving mathematical puzzles and exploring new technologies in my free time.
 
